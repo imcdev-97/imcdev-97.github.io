@@ -11,7 +11,6 @@
   "theme_color": "#0f766e",
   "icons": [
     {"src": "qc-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "qc-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "qc-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {"src": "qc-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
   ]
 }
