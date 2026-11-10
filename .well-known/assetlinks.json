@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.imcdev97.quebracabeca",
+        "sha256_cert_fingerprints": ["54:18:A0:BA:0C:75:D9:62:CA:16:B9:D6:61:8D:63:5D:27:E4:1C:B9:51:72:AF:18:18:27:65:FE:35:29:CB:19"]
+      }
+    }]
