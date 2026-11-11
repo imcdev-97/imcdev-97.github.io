@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.imcdev97.quebracabeca",
-        "sha256_cert_fingerprints": ["54:18:A0:BA:0C:75:D9:62:CA:16:B9:D6:61:8D:63:5D:27:E4:1C:B9:51:72:AF:18:18:27:65:FE:35:29:CB:19"]
+        "sha256_cert_fingerprints": ["54:18:A0:BA:0C:75:D9:62:CA:16:B9:D6:61:8D:63:5D:27:E4:1C:B9:51:72:AF:18:18:27:65:FE:35:29:CB:19", "0F:3D:92:6F:C7:96:00:C5:87:69:14:93:00:CD:4D:68:E8:F1:87:E7:BC:7E:49:39:86:A3:F5:F5:F4:2A:00:B1"]
       }
     }]
